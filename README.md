@@ -134,13 +134,13 @@ Solar-PV-Fed-IFOC-Induction-Motor-Drive
 
 The complete technical report covering system design, component sizing, IFOC development, boost-converter modeling, controller design, supervisory control, simulation results, and source-side collapse analysis is available in this repository.
 
-📄 **Project Report.pdf**
+📄 [Project Report](./Project%20Report.pdf)
 
 ## Simulink Model
 
 The complete integrated MATLAB/Simulink model is included in the repository.
 
-⚙️ **Solar_Vector_Control.slx**
+⚙️ [Download Simulink Model](./Solar_Vector_Control.slx)
 
 ## Author
 
